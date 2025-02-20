@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iRambax
-- 👀 I’m interested in SwiftUI, Swift and VR coding.
+- 👀 I’m interested in SwiftUI, Swift and AI coding.
 - 🌱 I’m currently learning the secret of universe!
 
 <!---
